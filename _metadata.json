@@ -1,0 +1,110 @@
+{
+  "hash": "bf256c6e",
+  "configHash": "8cccc2c8",
+  "lockfileHash": "e2cc4d51",
+  "browserHash": "2df9408a",
+  "optimized": {
+    "@ai-sdk/openai": {
+      "src": "../../@ai-sdk/openai/dist/index.js",
+      "file": "@ai-sdk_openai.js",
+      "fileHash": "4e4197d6",
+      "needsInterop": false
+    },
+    "@ai-sdk/react": {
+      "src": "../../@ai-sdk/react/dist/index.js",
+      "file": "@ai-sdk_react.js",
+      "fileHash": "8206a9e7",
+      "needsInterop": false
+    },
+    "@supabase/supabase-js": {
+      "src": "../../@supabase/supabase-js/dist/index.mjs",
+      "file": "@supabase_supabase-js.js",
+      "fileHash": "37b12e57",
+      "needsInterop": false
+    },
+    "@tanstack/react-query": {
+      "src": "../../@tanstack/react-query/build/modern/index.js",
+      "file": "@tanstack_react-query.js",
+      "fileHash": "8d6df914",
+      "needsInterop": false
+    },
+    "@tanstack/react-router > @tanstack/react-store": {
+      "src": "../../@tanstack/react-store/dist/index.js",
+      "file": "@tanstack_react-router_n_@tanstack_react-store.js",
+      "fileHash": "b4293b3e",
+      "needsInterop": false
+    },
+    "ai": {
+      "src": "../../ai/dist/index.js",
+      "file": "ai.js",
+      "fileHash": "ea813ec5",
+      "needsInterop": false
+    },
+    "lucide-react": {
+      "src": "../../lucide-react/dist/esm/lucide-react.js",
+      "file": "lucide-react.js",
+      "fileHash": "3e7367ed",
+      "needsInterop": false
+    },
+    "react-dom": {
+      "src": "../../react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "005aa6f4",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "fcdb0d33",
+      "needsInterop": true
+    },
+    "react-markdown": {
+      "src": "../../react-markdown/index.js",
+      "file": "react-markdown.js",
+      "fileHash": "9b37a612",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "4977eb79",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "3ef1454d",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "a37ac33e",
+      "needsInterop": true
+    },
+    "tesseract.js": {
+      "src": "../../tesseract.js/src/index.js",
+      "file": "tesseract__js.js",
+      "fileHash": "26c1df06",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "dist-CdbyxrhI": {
+      "file": "dist-CdbyxrhI.js",
+      "isDynamicEntry": false
+    },
+    "dist-DUzUfLbG": {
+      "file": "dist-DUzUfLbG.js",
+      "isDynamicEntry": false
+    },
+    "rolldown-runtime-B-lAHAz2": {
+      "file": "rolldown-runtime-B-lAHAz2.js",
+      "isDynamicEntry": false
+    },
+    "shim-Jf0PCdQ_": {
+      "file": "shim-Jf0PCdQ_.js",
+      "isDynamicEntry": false
+    }
+  }
+}
